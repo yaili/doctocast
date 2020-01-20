@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "doctocat-template",
+  "name": "doctocasts-trial",
   "builds": [
     {
       "src": "package.json",
