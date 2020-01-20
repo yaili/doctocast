@@ -1,6 +1,6 @@
 {
-  "name": "doctocat-template",
-  "repository": "primer/doctocat-template",
+  "name": "doctocasts-trial",
+  "repository": "yaili/doctocasts",
   "version": "1.0.0",
   "scripts": {
     "develop": "gatsby develop",
